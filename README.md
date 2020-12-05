@@ -11,11 +11,11 @@
   8. Игра оканчивается проигрышем, если касается сама себя или края поля.
 
 # Гемплей
-Попробуй стать альфой!
+h1 Попробуй стать альфой!
 
 ![](https://github.com/OB11TO/Snake-game/blob/main/res/alpfa.png)
 
-Или же погибнуть.
+ h2 Или же погибнуть.
 
 ![](https://github.com/OB11TO/Snake-game/blob/main/res/fail.png)
   
