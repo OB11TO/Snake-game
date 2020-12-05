@@ -12,9 +12,11 @@
 
 # Гемплей
 Попробуй стать альфой!
+
 ![](https://github.com/OB11TO/Snake-game/blob/main/res/alpfa.png)
 
 Или же погибнуть.
+
 ![](https://github.com/OB11TO/Snake-game/blob/main/res/fail.png)
   
 Сама игра доступна по ссылку - https://javarush.ru/projects/apps/184083
