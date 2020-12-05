@@ -11,6 +11,6 @@
   8. Игра оканчивается проигрышем, если касается сама себя или края поля.
 
 # Гемплей
-![](https://github.com/OB11TO/Snake-game/tree/main/res/fail.png)
+![](https://github.com/OB11TO/Snake-game/blob/main/res/fail.png)
   
 Сама игра доступна по ссылку - https://javarush.ru/projects/apps/184083
